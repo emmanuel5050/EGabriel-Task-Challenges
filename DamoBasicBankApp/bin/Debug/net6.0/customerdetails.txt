@@ -1,0 +1,10 @@
+temi,dayo,tdam,les@gmail.com,34,010101,1234,24/02/2023 00:56:33,0.00,Customer Account created with initail balance of 0.00
+temi,dayo,tdam,les@gmail.com,34,010101,1234,24/02/2023 00:56:33,200,Deposited: 200 	 New Balance: 200
+temi,dayo,tdam,les@gmail.com,34,010101,1234,24/02/2023 00:56:33,50,Withdrawn: 150        New Balance: 50
+temi,dayo,tdam,les@gmail.com,34,010101,1234,24/02/2023 00:56:33,350,Deposited: 300 	 New Balance: 350
+temi,dayo,tdam,les@gmail.com,34,010101,1234,24/02/2023 00:56:33,275,Withdrawn: 75  New Balance: 275
+temi,dayo,tdam,les@gmail.com,34,010101,1234,24/02/2023 01:21:33,975,Deposited: 700 	 New Balance: 975
+temi,dayo,tdam,les@gmail.com,34,010101,1234,24/02/2023 01:22:14,775,Withdrawn: 200  New Balance: 775
+olayem,fat,ofat,ofat@gmail.com,123,0908882,1234,24/02/2023 07:43:04,0.00,Customer Account created with initail balance of 0.00
+olayem,fat,ofat,ofat@gmail.com,123,0908882,1234,24/02/2023 07:43:39,125,Deposited: 125 	 New Balance: 125
+olayem,fat,ofat,ofat@gmail.com,123,0908882,1234,24/02/2023 07:43:54,105,Withdrawn: 20  New Balance: 105
